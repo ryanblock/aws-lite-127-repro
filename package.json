@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "arc sandbox"
+  },
+  "dependencies": {
+    "@architect/architect": "^11.0.12",
+    "@architect/functions": "^8.1.2",
+    "@aws-lite/client": "^0.21.3",
+    "@aws-lite/ssm": "^0.2.3"
+  }
+}
